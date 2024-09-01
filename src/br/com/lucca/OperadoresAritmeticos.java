@@ -1,3 +1,5 @@
+package br.com.lucca;
+
 public class OperadoresAritmeticos {
 
 
@@ -15,6 +17,9 @@ public class OperadoresAritmeticos {
         double media = (nota1 + nota2 + nota3 + nota4) / 4;
 
         System.out.println(media);
+
+        Double mediaConvertida = media;
+        System.out.println(mediaConvertida);
     }
 
 
