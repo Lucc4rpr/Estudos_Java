@@ -1,8 +1,8 @@
-package com.jdbcExample;
+package test.java.com.jdbcExample;
 
-import com.jdbcExample.dao.IProductDAO;
-import com.jdbcExample.dao.ProductDaoIMPL;
-import com.jdbcExample.domain.Product;
+import main.java.com.jdbcExample.dao.IProductDAO;
+import main.java.com.jdbcExample.dao.ProductDaoIMPL;
+import main.java.com.jdbcExample.domain.Product;
 import org.junit.jupiter.api.Test;
 
 import java.util.List;
