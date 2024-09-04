@@ -27,6 +27,7 @@
   "keyToString": {
     "Downloaded.Files.Path.Enabled": "false",
     "JUnit.All in mod-37 (1).executor": "Run",
+    "JUnit.All in mod-37 (2).executor": "Run",
     "JUnit.All in mod-37.executor": "Run",
     "Repository.Attach.Annotations": "false",
     "Repository.Attach.JavaDocs": "false",
@@ -41,12 +42,23 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/Lucca/Desktop/teste/src/Main.java",
+    "project.structure.last.edited": "Problems",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.All in mod-37 (1)">
+  <component name="RunManager" selected="JUnit.All in mod-37 (2)">
     <configuration name="All in mod-37 (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mod-37" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in mod-37 (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="mod-37" />
       <option name="PACKAGE_NAME" value="" />
       <option name="TEST_OBJECT" value="package" />
@@ -62,8 +74,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Mod40Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="mod-37" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lucca.mod40.Mod40Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.All in mod-37 (2)" />
         <item itemvalue="JUnit.All in mod-37 (1)" />
         <item itemvalue="JUnit.All in mod-37" />
       </list>
@@ -86,7 +107,7 @@
       <option name="presentableId" value="Default" />
       <updated>1725414986924</updated>
       <workItem from="1725414988004" duration="4993000" />
-      <workItem from="1725465248018" duration="426000" />
+      <workItem from="1725465248018" duration="2373000" />
     </task>
     <servers />
   </component>
