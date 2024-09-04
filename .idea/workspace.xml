@@ -5,62 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="79de8ac5-e68d-4b9a-b8aa-7254785337bb" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExemploVendasMod36/src/main/java/META-INF/persistence.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExemploVendasMod36/src/main/java/anotacao/ColunaTabela.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExemploVendasMod36/src/main/java/anotacao/Tabela.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExemploVendasMod36/src/main/java/anotacao/TipoChave.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExemploVendasMod36/src/main/java/br/com/rpires/dao/generic/jpa/GenericJpaDAO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExemploVendasMod36/src/main/java/br/com/rpires/dao/generic/jpa/GenericJpaDB1DAO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExemploVendasMod36/src/main/java/br/com/rpires/dao/generic/jpa/GenericJpaDB2DAO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExemploVendasMod36/src/main/java/br/com/rpires/dao/generic/jpa/GenericJpaDB3DAO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExemploVendasMod36/src/main/java/br/com/rpires/dao/generic/jpa/IGenericJapDAO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExemploVendasMod36/src/main/java/br/com/rpires/dao/jpa/ClienteJpaDAO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExemploVendasMod36/src/main/java/br/com/rpires/dao/jpa/ClienteJpaDB2DAO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExemploVendasMod36/src/main/java/br/com/rpires/dao/jpa/ClienteJpaDB3DAO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExemploVendasMod36/src/main/java/br/com/rpires/dao/jpa/IClienteJpaDAO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExemploVendasMod36/src/main/java/br/com/rpires/dao/jpa/IProdutoJpaDAO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExemploVendasMod36/src/main/java/br/com/rpires/dao/jpa/IVendaJpaDAO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExemploVendasMod36/src/main/java/br/com/rpires/dao/jpa/ProdutoJpaDAO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExemploVendasMod36/src/main/java/br/com/rpires/dao/jpa/VendaJpaDAO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExemploVendasMod36/src/main/java/br/com/rpires/domain/jpa/ClienteJpa.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExemploVendasMod36/src/main/java/br/com/rpires/domain/jpa/ClienteJpa2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExemploVendasMod36/src/main/java/br/com/rpires/domain/jpa/Persistente.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExemploVendasMod36/src/main/java/br/com/rpires/domain/jpa/ProdutoJpa.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExemploVendasMod36/src/main/java/br/com/rpires/domain/jpa/ProdutoQuantidadeJpa.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExemploVendasMod36/src/main/java/br/com/rpires/domain/jpa/VendaJpa.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExemploVendasMod36/src/main/java/br/com/rpires/exceptions/DAOException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExemploVendasMod36/src/main/java/br/com/rpires/exceptions/MaisDeUmRegistroException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExemploVendasMod36/src/main/java/br/com/rpires/exceptions/TableException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExemploVendasMod36/src/main/java/br/com/rpires/exceptions/TipoChaveNaoEncontradaException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExemploVendasMod36/src/main/java/br/com/rpires/exceptions/TipoElementoNaoConhecidoException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExemploVendasMod36/src/main/java/br/com/rpires/services/generic/jpa/GenericJpaService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExemploVendasMod36/src/main/java/br/com/rpires/services/generic/jpa/IGenericJpaService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExemploVendasMod36/src/test/java/br/com/rpires/dao/VendaExclusaoJpaDAO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExemploVendasMod36/src/test/java/br/com/rpires/jpa/AllTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExemploVendasMod36/src/test/java/br/com/rpires/jpa/ClienteJpaDao2BancosTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExemploVendasMod36/src/test/java/br/com/rpires/jpa/ClienteJpaDao3BancosTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExemploVendasMod36/src/test/java/br/com/rpires/jpa/ClienteJpaDaoTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExemploVendasMod36/src/test/java/br/com/rpires/jpa/ProdutoJpaDAOTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExemploVendasMod36/src/test/java/br/com/rpires/jpa/VendaJpaDAOTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exemplos_internet/spring-data-examples/multi-store/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exemplos_internet/spring-data-examples/multi-store/src/main/java/example/springdata/multistore/ApplicationConfiguration.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exemplos_internet/spring-data-examples/multi-store/src/main/java/example/springdata/multistore/config/JpaConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exemplos_internet/spring-data-examples/multi-store/src/main/java/example/springdata/multistore/config/MongoConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exemplos_internet/spring-data-examples/multi-store/src/main/java/example/springdata/multistore/customer/Address.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exemplos_internet/spring-data-examples/multi-store/src/main/java/example/springdata/multistore/customer/Customer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exemplos_internet/spring-data-examples/multi-store/src/main/java/example/springdata/multistore/customer/CustomerRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exemplos_internet/spring-data-examples/multi-store/src/main/java/example/springdata/multistore/shop/LineItem.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exemplos_internet/spring-data-examples/multi-store/src/main/java/example/springdata/multistore/shop/Order.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exemplos_internet/spring-data-examples/multi-store/src/main/java/example/springdata/multistore/shop/OrderRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exemplos_internet/spring-data-examples/multi-store/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exemplos_internet/spring-data-examples/multi-store/src/test/java/example/springdata/multistore/ApplicationConfigurationTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exemplos_internet/spring-data-examples/multi-store/src/test/resources/logback.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exemplos_internet/spring-data-examples/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exemplos_internet/spring-data-examples/settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,12 +26,14 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Downloaded.Files.Path.Enabled": "false",
+    "JUnit.All in mod-37 (1).executor": "Run",
+    "JUnit.All in mod-37.executor": "Run",
     "Repository.Attach.Annotations": "false",
     "Repository.Attach.JavaDocs": "false",
     "Repository.Attach.Sources": "false",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "exercicio__37",
+    "git-widget-placeholder": "exercicio__38",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -98,6 +45,30 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="JUnit.All in mod-37 (1)">
+    <configuration name="All in mod-37 (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mod-37" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in mod-37" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mod-37" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in mod-37 (1)" />
+        <item itemvalue="JUnit.All in mod-37" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -114,7 +85,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1725414986924</updated>
-      <workItem from="1725414988004" duration="2069000" />
+      <workItem from="1725414988004" duration="4993000" />
+      <workItem from="1725465248018" duration="426000" />
     </task>
     <servers />
   </component>
